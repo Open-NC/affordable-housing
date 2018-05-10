@@ -1,3 +1,9 @@
+## Project Ideas (New and Underway)
+
+ * SF Housing Data Hub (https://housing.datasf.org/)
+ * Durham Housing Data Hub (need link)
+ * Affordable Housing Finder - input income and find rentals less than 30% income - NEW
+
 ## Affordable Housing Data Sources
 
 #### US Cenus (www.census.gov)
