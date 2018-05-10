@@ -30,4 +30,5 @@
 * Berkeley, Urban Analytics Lab (https://github.com/ual)
 * Urban Analytics Lav Craig's List Apartment Data Scraper (https://github.com/ual/scraper2)
 * Wharton Regulation Index (http://real.wharton.upenn.edu/~gyourko/landusesurvey.html)
+* How we identified lending disparities in federal mortgage data (https://www.revealnews.org/article/how-we-identified-lending-disparities-in-federal-mortgage-data/)
 
