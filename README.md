@@ -1,6 +1,6 @@
 ## Project Ideas (New and Underway)
 
- * SF Housing Data Hub (https://housing.datasf.org/)
+ * SF Housing Data Hub (https://housing.datasf.org/ & https://github.com/DataSF/housing-data-hub)
  * Durham Housing Data Hub (https://github.com/codefordurham/affordablehousing)
  * Mecklanburg QOL Dashboard (https://mcmap.org/qol/)
  * Affordable Housing Finder - input income and find rentals less than 30% income - NEW
