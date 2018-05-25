@@ -31,7 +31,6 @@
 * NC State County GIS Data (https://www.lib.ncsu.edu/gis/counties.html)
 
 #### Ethical Project Data Sites
-* Eviction Lab (https://evictionlab.org/)
 * Eviction Lab, Eviction Map (https://evictionlab.org/map/#/2016?geography=counties&bounds=-88.404,32.406,-71.312,39.053&type=efr&choropleth=p&locations=3719000,-78.824,36.025%2B37,-79.368,35.54)
 * University of Richmond, Mapping Inequality, Home Owners Loan Corporation (HOLC) Maps (https://dsl.richmond.edu/panorama/redlining/#loc=13/35.9995/-78.9060&opacity=0.8&city=durham-nc)
 * University of Richmond, Digital Scholorship Lab (https://dsl.richmond.edu/)
