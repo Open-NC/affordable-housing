@@ -32,6 +32,7 @@
 
 #### Ethical Project Data Sites
 * Eviction Lab, Eviction Map (https://evictionlab.org/map/#/2016?geography=counties&bounds=-88.404,32.406,-71.312,39.053&type=efr&choropleth=p&locations=3719000,-78.824,36.025%2B37,-79.368,35.54)
+* http://www.governing.com/topics/health-human-services/gov-eviction-epidemic.html?utm_term=Where%20Evictions%20Are%20Most%20Common&utm_campaign=Scott%20Wiener%20Thinks%20He%20Knows%20How%20to%20Fix%20California%27s%20Housing%20Crisis&utm_content=email&utm_source=Act-On+Software&utm_medium=email
 * University of Richmond, Mapping Inequality, Home Owners Loan Corporation (HOLC) Maps (https://dsl.richmond.edu/panorama/redlining/#loc=13/35.9995/-78.9060&opacity=0.8&city=durham-nc)
 * University of Richmond, Digital Scholorship Lab (https://dsl.richmond.edu/)
 * Berkeley, Urban Analytics Lab (https://github.com/ual)
